@@ -1,0 +1,42 @@
+/* .EmployeePage { */
+  /* display: flex;
+  flex-direction: column; */
+  /* border: 2px solid brown;
+  width: 48%;
+  height: 98%;
+  margin-top: 3px;
+  margin-right: 3px;
+  float: right; */
+  /* display: inline-block; */
+  
+/* } */
+.EmployeePage {
+  flex: 1;
+  border: 2px solid brown;
+  display: flex;
+  flex-direction: column;
+  padding: 25px;
+  
+
+
+}
+.EmployeePage >div{
+  border-bottom: 2px solid rgb(115, 114, 114);
+  border-left:2px solid rgb(115, 114, 114);
+  border-right:2px solid rgb(115, 114, 114);
+  padding: 10px;
+
+}
+.employeeOverview{
+  height:250px;
+  display:flex;
+  justify-content: space-evenly;
+  align-items: center;
+  gap: 25px;
+}
+.profile-icon{
+  background-color: blue;
+  width:100px;
+  height:100px;
+  border-radius: 50%;
+}

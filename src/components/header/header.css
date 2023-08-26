@@ -1,0 +1,17 @@
+/* .Header{
+    border: 2px solid skyblue;
+    flex: 1;
+    width: 95%;
+    position: center;
+    margin-top: 2px;
+    margin-left: 2px;
+    padding: 4px;
+    text-align: center;
+    
+} */
+.Header{
+   border: 2px solid rgb(115, 114, 114);
+   height: 80px;
+   text-align: center;
+   padding: 25px;
+}

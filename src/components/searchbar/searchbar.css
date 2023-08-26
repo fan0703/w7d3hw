@@ -1,0 +1,10 @@
+.SearchBar{
+    border: 2px solid green;
+    border-radius: 12px;
+    padding: 4px;
+    text-align: center;
+    margin-top: 5px;
+}
+input{
+    width: 80%;
+} 

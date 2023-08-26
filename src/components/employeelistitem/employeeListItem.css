@@ -1,0 +1,11 @@
+/* .EmployeeListItem{
+    border: 2px solid red;
+    height: 70px;
+    margin-top: 2px;
+    margin-bottom: 3px;
+} */
+.EmployeeListItem{
+    border: 2px solid red;
+    padding: 25px;
+    margin-top: 2px;
+}

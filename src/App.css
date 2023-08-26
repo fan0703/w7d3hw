@@ -1,0 +1,13 @@
+/* .App {
+  border: 2px solid black;
+  width: 115vh;
+  height: 95vh;
+  position: relative;
+  margin-left: 6px;
+} */
+.App{
+  box-sizing: border-box;
+  border: 2px solid black;
+  display:flex;
+  gap:15px;
+}

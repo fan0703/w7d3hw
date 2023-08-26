@@ -1,0 +1,15 @@
+/* .Homepage {
+  border: 2px solid orange;
+  width: 48%;
+  height: 98%;
+  margin-top: 3px;
+  margin-left: 3px;
+  /* position: relative; */
+/* float: left; */
+/* } */
+.Homepage {
+  flex: 1;
+  border: 2px solid orange;
+  padding: 25px;
+
+}

@@ -1,0 +1,17 @@
+/* .EmployeeList{
+    flex: 6; /*cannot work*/
+    /* border: 2px solid purple;
+    width: 95%;
+    height: 83%;
+    padding: 4px;
+    margin-top: 4px;
+    margin-left: 2px; */
+
+/* } */ 
+.EmployeeList{
+    border: 2px solid purple;
+    padding: 5px;
+    margin-top: 5px;
+
+
+}
