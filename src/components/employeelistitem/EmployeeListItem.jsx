@@ -11,7 +11,7 @@ export default function EmployeeListItem({
 }) {
   return (
     <div onClick={() =>{handleUserClick({img:employeeImage,name:employeeName, title: employeeTitle})}} /*invoke function*/className="EmployeeListItem">
-      {/* <img>{employeeImage}</img> */}
+      <img src={employeeImage} className="icon"/>
       <h3>{employeeName}</h3>
       <p>{employeeTitle}</p>
     </div>

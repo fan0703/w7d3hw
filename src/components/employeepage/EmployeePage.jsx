@@ -6,7 +6,9 @@ export default function EmployeePage({employee}) {
     <div className="EmployeePage">
       <Header title="Employee" />
       <div className="employeeOverview">
-        <div className="profile-icon"></div>
+        <div className="profile-icon">
+        <img src={"https://cdn-icons-png.flaticon.com/512/3135/3135715.png"}/>
+        </div>
         <div className="profile-info">
           <h2>{employee.name}</h2>
           <h4>{employee.title}</h4>
